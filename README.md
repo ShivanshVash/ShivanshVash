@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Shivansh Vashishtha</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Front end Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/892e8b39f44fa8fedd2be543dd3f5289.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshvash&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshvash" /> </p>
 
-- 🔭 I’m currently working on **KSocial**
+- 🔭 I’m currently working on **Self-Portfolio**
 
 - 🌱 I’m currently learning **Javascript, Node.js, React**
 
-- 📫 How to reach me **Vashishthashivansh75@gmail.com**
+- 📫 How to reach me **vashishthashivansh75@gmail.com**
 
 - ⚡ Fun fact **I think I can code but ......**
 
