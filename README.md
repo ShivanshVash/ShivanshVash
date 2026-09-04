@@ -19,7 +19,7 @@ Before moving to Germany I spent 1.3 years in pre-sales roles delivering RPA, in
 - 📜 **Microsoft PL-900 certified** (Power Platform Fundamentals) · working toward **PL-200**
 - 🌱 Learning **Power Apps, Power Automate, Dataverse, Copilot Studio** — and German, slowly
 - 💼 Open to **Werkstudent roles** in Power Platform consulting or business automation
-- 📫 Reach me at **vashishthashivansh75@gmail.com**
+- 📫 Reach me at **shivanshvashishatha@gmail.com**
 
 ---
 
