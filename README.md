@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivansh Vashishtha</h1>
-<h3 align="center">Microsoft Power Platform | Technical Pre-Sales | M.Sc. Student at TU Ilmenau</h3>
+<h3 align="center">M.Sc. Student at TU Ilmenau</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanshvash&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
